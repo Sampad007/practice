@@ -1,0 +1,55 @@
+JAVA:
+====
+Static vs Non-Static
+1. Static method cannot call Non-Static Methods & Variables. Hence object of the class required.
+2. Values of Static variables cannot be modified during Runtime.
+
+For each loop
+Method Overloading vs Method Overriding
+final vs finally vs finalize
+this operator
+Access Modifiers (36:26)
+Collections
+Classes and Interface
+Dynamic Binding
+OOPS Concept: Encapsulation, Inheritence, Polymorphism, Data Abstraction, 
+Design patterns: Abstraction, Interface, Abstarct classes (What and why)
+
+Implements vs Extends 
+User Defined Exceptions (Imp)
+throw vs throws vs thrown
+Concepts of String, and it's features
+Multi Threading
+Generics 
+
+Programs:
+========
+Displaying the alternate characters of a String
+Displaying the unique characters of a String
+Dispalying Reverse String
+Displaying alternative characters Uppercase/Lowercase
+Displaying unique words from a file.
+
+Selenium:
+=======
+Navigate().to() vs Get()
+Implicit wait vs Explicit wait
+Calenders Handling
+Pop-up Handling
+Multi-tabs handling
+SwitchTo()
+Multi-Window handilng
+Alerts
+
+Read data from file:
+===================
+Properties File
+Excel File
+
+
+Framework:
+=========
+TDD vs BDD
+Maven concepts
+TestNG concepts
+Properties file handling
